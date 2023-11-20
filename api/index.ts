@@ -1,9 +1,8 @@
-import server from "./src/app";
+import server from "./src/app.js";
+const { PORT_GIMNASIO } = process.env;
 
-const PORT = 3006;
-
-server.listen(PORT,()=>{
-  console.log(`Funcionando puerto ${PORT}`)
+server.listen(3000, () => {
+  console.log(`Funcionando puerto ${3000}`)
 })
 
 
