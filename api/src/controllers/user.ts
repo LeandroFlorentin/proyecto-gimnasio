@@ -48,4 +48,23 @@ userController.post("/RegistrarUsuario", (req: Request, res: Response) => {
     })
   }
 })
+
+userController.post("/ConsultaUsuario", (req: Request, res: Response) => {
+  const { idusuario } = req.body;
+  try {
+    db.db.sync().then(async () => {
+      const usuario = await db.usuario.findOne({ where: { idusuario } })
+      return res.status(200).json({
+        info: true,
+        msg: "Info OK",
+        content: usuario
+      })
+    })
+  } catch (error: any) {
+    res.status(error.response.status).json({
+      info: false,
+      msg: "Error al consultar usuario"
+    })
+  }
+})
 export default userController;
