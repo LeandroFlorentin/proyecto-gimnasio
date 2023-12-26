@@ -1,0 +1,292 @@
+[
+  {
+    "dia": "lunes",
+    "musculo": "piernas",
+    "ejercicios": {
+      "piernas": [
+        {
+          "orden": 1,
+          "ejercicio": "sentadilla libre",
+          "cantidad": "10 o 12",
+          "descripcion": "Las primeras 2 de aproximación , La 3ra peso máximo, La 4ta peso máximo con dos descensos al fallo",
+          "repeticiones": 4
+        },
+        {
+          "orden": 2,
+          "ejercicio": "sumo con barra",
+          "repeticiones": 4,
+          "cantidad": "12"
+        },
+        {
+          "orden": 3,
+          "ejercicio": "femoral en maquina parado",
+          "descripcion": "Las primeras 2 de aproximación , La 3ra peso máximo, La 4ta peso máximo con dos descensos al fallo",
+          "repeticiones": 4,
+          "cantidad": "12"
+        },
+        {
+          "orden": 4,
+          "ejercicio": "sillon de cuadriceps",
+          "repeticiones": 4,
+          "cantidad": "10 o 12",
+          "descripcion": "Las primeras 2 de aproximación , La 3ra peso máximo, La 4ta peso máximo con dos descensos al fallo"
+        },
+        {
+          "orden": 5,
+          "ejercicio": "estocadas con pesas rusas ida y vuelta",
+          "repeticiones": 4,
+          "descripcion": "La estocada son dos seguidas con la misma pierna por paso"
+        },
+        {
+          "orden": 6,
+          "ejercicio": "sillón de femorales",
+          "repeticiones": 4,
+          "cantidad": "12",
+          "descripcion": "La última al fallo"
+        }
+      ]
+    }
+  },
+  {
+    "dia": "martes",
+    "musculo": "pecho y triceps",
+    "ejercicios": {
+      "pecho": [
+        {
+          "orden": 1,
+          "ejercicio": "banco inclinado",
+          "cantidad": "12",
+          "descripcion": "Las primeras 2 de aproximación , La 3ra peso máximo, La 4ta peso máximo con dos descensos al fallo",
+          "repeticiones": 4
+        },
+        {
+          "orden": 2,
+          "ejercicio": "press inclinado",
+          "repeticiones": 4,
+          "cantidad": "12"
+        },
+        {
+          "orden": 3,
+          "ejercicio": "apertura inclinado y vuelo de pecho superior",
+          "repeticiones": 4,
+          "cantidad": "12"
+        },
+        {
+          "orden": 4,
+          "ejercicio": "banco plano",
+          "repeticiones": 4,
+          "cantidad": "10 o 12",
+          "descripcion": "Las primeras 2 de aproximación , La 3ra peso máximo, La 4ta peso máximo con dos descensos al fallo"
+        },
+        {
+          "orden": 5,
+          "ejercicio": "press banco plano",
+          "repeticiones": 4,
+          "cantidad": "12"
+        },
+        {
+          "orden": 6,
+          "ejercicio": "apertura banco plano mas disco al pecho al fallo",
+          "repeticiones": 4,
+          "cantidad": "12"
+        },
+        {
+          "orden": 7,
+          "ejercicio": "Polea enfrentadas de pecho o mariposa",
+          "repeticiones": 4,
+          "cantidad": "12"
+        }
+      ],
+      "triceps": [
+        {
+          "orden": 1,
+          "ejercicio": "Combinacion de triceps",
+          "cantidad": "12",
+          "descripcion": "Triceps en polea con soga, Triceps en polea con soga arriba, Triceps con con manopla a una mano, Triceps con manopla a una mano invertida, Triceps en polea con soga a una mano",
+          "repeticiones": 4
+        },
+        {
+          "orden": 2,
+          "ejercicio": "Fondos con frances",
+          "repeticiones": 4,
+          "cantidad": "12"
+        }
+      ]
+    }
+  },
+  {
+    "dia": "miercoles",
+    "musculo": "espalda y biceps",
+    "ejercicios": {
+      "espalda": [
+        {
+          "orden": 1,
+          "ejercicio": "dorsalera al pecho",
+          "cantidad": "12",
+          "repeticiones": 4
+        },
+        {
+          "orden": 2,
+          "ejercicio": "dorsalera a la nuca",
+          "repeticiones": 4,
+          "cantidad": "12"
+        },
+        {
+          "orden": 3,
+          "ejercicio": "dorsalera con triangulo",
+          "repeticiones": 4,
+          "cantidad": "12"
+        },
+        {
+          "orden": 4,
+          "ejercicio": "dorsalera con agarre remo",
+          "repeticiones": 4,
+          "cantidad": "12"
+        },
+        {
+          "orden": 5,
+          "ejercicio": "remo polea baja con triangulo",
+          "repeticiones": 4,
+          "cantidad": "12"
+        },
+        {
+          "orden": 6,
+          "ejercicio": "remo con agarre abierto",
+          "repeticiones": 4,
+          "cantidad": "12"
+        }
+      ],
+      "biceps": [
+        {
+          "orden": 1,
+          "ejercicio": "curl 21",
+          "repeticiones": 4,
+          "cantidad": "21"
+        },
+        {
+          "orden": 2,
+          "ejercicio": "curl martillo",
+          "repeticiones": 4,
+          "cantidad": "12"
+        },
+        {
+          "orden": 3,
+          "ejercicio": "curl martillo neutro",
+          "cantidad": "12",
+          "repeticiones": 4
+        },
+        {
+          "orden": 4,
+          "ejercicio": "banco scor a una mano",
+          "repeticiones": 4,
+          "cantidad": "12"
+        },
+        {
+          "orden": 5,
+          "ejercicio": "curl en polea baja",
+          "repeticiones": 4,
+          "cantidad": "fallo"
+        }
+      ]
+    }
+  },
+  {
+    "dia": "jueves",
+    "musculo": "gluteos y femorales",
+    "ejercicios": {
+      "gluteos_femorales": [
+        {
+          "orden": 1,
+          "ejercicio": "elevación de cadera",
+          "descripcion": "1 segundo de retención, la ultima al fallo",
+          "cantidad": "12",
+          "repeticiones": 4
+        },
+        {
+          "orden": 2,
+          "ejercicio": "peso muerto",
+          "descripcion": "La ultima al fallo",
+          "repeticiones": 4,
+          "cantidad": "12"
+        },
+        {
+          "orden": 3,
+          "ejercicio": "patada de burro mas parada lateral en biseries",
+          "repeticiones": 4,
+          "cantidad": "12"
+        },
+        {
+          "orden": 4,
+          "ejercicio": "femoral en maquina parado",
+          "descripcion": "dos descensos al fallo en la ultima",
+          "repeticiones": 4,
+          "cantidad": "12"
+        },
+        {
+          "orden": 5,
+          "ejercicio": "estocadas bulgaras",
+          "repeticiones": 4,
+          "cantidad": "12"
+        },
+        {
+          "orden": 6,
+          "ejercicio": "buen dia",
+          "repeticiones": 4,
+          "cantidad": "12"
+        },
+        {
+          "orden": 7,
+          "ejercicio": "sillon de femorales",
+          "repeticiones": 4,
+          "cantidad": "12",
+          "descripcion": "dos descensos al fallo en la ultima"
+        }
+      ]
+    }
+  },
+  {
+    "dia": "viernes",
+    "musculo": "hombos",
+    "ejercicios": {
+      "hombros": [
+        {
+          "orden": 1,
+          "ejercicio": "press con mancuernas",
+          "cantidad": "12",
+          "repeticiones": 4
+        },
+        {
+          "orden": 2,
+          "ejercicio": "press posterior (agarre neutro)",
+          "repeticiones": 4,
+          "cantidad": "12"
+        },
+        {
+          "orden": 3,
+          "ejercicio": "press arnold",
+          "repeticiones": 4,
+          "cantidad": "12"
+        },
+        {
+          "orden": 4,
+          "ejercicio": "vuelos laterales, diagonales, frontales y neutro",
+          "descripcion": "40 en total, 10 de cada uno",
+          "repeticiones": 4,
+          "cantidad": "10"
+        },
+        {
+          "orden": 5,
+          "ejercicio": "vuelo posterior combinado en biseries con posterior en polea alta con soga",
+          "repeticiones": 4,
+          "cantidad": "12"
+        },
+        {
+          "orden": 6,
+          "ejercicio": "press militar",
+          "repeticiones": 4,
+          "cantidad": "fallo"
+        }
+      ]
+    }
+  }
+]
