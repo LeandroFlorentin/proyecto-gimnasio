@@ -1,5 +1,5 @@
 import { Accordion } from "react-bootstrap";
-export default function AccordionGym({ eventKey, activateKey, key, title, children }: any) {
+export default function AccordionGym({ eventKey, key, title, children }: any) {
   return (
     <Accordion key={key}>
       <Accordion.Item eventKey={eventKey}>

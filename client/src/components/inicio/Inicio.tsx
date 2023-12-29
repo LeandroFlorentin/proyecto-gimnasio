@@ -15,7 +15,7 @@ export default function Inicio() {
           {
             data?.map((value: any, key: any) => {
               return (
-                <AccordionGym eventKey={key} activateKey={key} key={key} title={capitalize(value.dia) + " - " + capitalize(value.musculo)}>
+                <AccordionGym eventKey={key} key={key} title={capitalize(value.dia) + " - " + capitalize(value.musculo)}>
                   <>
                     {
                       Object.values(value.ejercicios).map((values: any, key2: any) => {
