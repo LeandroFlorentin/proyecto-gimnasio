@@ -276,12 +276,19 @@
         },
         {
           "orden": 5,
+          "ejercicio": "vuelos completos",
+          "descripcion": "40 en total, 10 de cada uno",
+          "repeticiones": 4,
+          "cantidad": "10"
+        },
+        {
+          "orden": 6,
           "ejercicio": "vuelo posterior combinado en biseries con posterior en polea alta con soga",
           "repeticiones": 4,
           "cantidad": "12"
         },
         {
-          "orden": 6,
+          "orden": 7,
           "ejercicio": "press militar",
           "repeticiones": 4,
           "cantidad": "fallo"
