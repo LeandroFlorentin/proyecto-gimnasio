@@ -7,42 +7,43 @@
         {
           "orden": 1,
           "ejercicio": "sentadilla libre",
-          "cantidad": "10 o 12",
-          "descripcion": "Las primeras 2 de aproximación , La 3ra peso máximo, La 4ta peso máximo con dos descensos al fallo",
+          "cantidad": "Manejalo vos, dependiendo del peso.",
+          "descripcion": "Todas al fallo.",
           "repeticiones": 4
         },
         {
           "orden": 2,
-          "ejercicio": "sumo con barra",
+          "ejercicio": "peso muerto",
+          "repeticiones": 4,
+          "cantidad": "10 o 12",
+          "descripcion": ""
+        },
+        {
+          "orden": 4,
+          "ejercicio": "sillon de cuadriceps",
+          "descripcion": "La ultima repetición con dos descensos y a una pierna el ultimo.",
           "repeticiones": 4,
           "cantidad": "12"
         },
         {
           "orden": 3,
-          "ejercicio": "femoral en maquina parado",
-          "descripcion": "Las primeras 2 de aproximación , La 3ra peso máximo, La 4ta peso máximo con dos descensos al fallo",
+          "ejercicio": "Estocada bulgada con la espalda recta.",
           "repeticiones": 4,
           "cantidad": "12"
         },
         {
-          "orden": 4,
-          "ejercicio": "sillon de cuadriceps",
-          "repeticiones": 4,
-          "cantidad": "10 o 12",
-          "descripcion": "Las primeras 2 de aproximación , La 3ra peso máximo, La 4ta peso máximo con dos descensos al fallo"
-        },
-        {
           "orden": 5,
-          "ejercicio": "estocadas con pesas rusas ida y vuelta",
-          "repeticiones": 4,
-          "descripcion": "La estocada son dos seguidas con la misma pierna por paso"
-        },
-        {
-          "orden": 6,
           "ejercicio": "sillón de femorales",
           "repeticiones": 4,
           "cantidad": "12",
           "descripcion": "La última al fallo"
+        },
+        {
+          "orden": 6,
+          "ejercicio": "gemelos",
+          "repeticiones": 4,
+          "descripcion": "",
+          "cantidad": 30
         }
       ]
     }
@@ -56,7 +57,7 @@
           "orden": 1,
           "ejercicio": "banco inclinado",
           "cantidad": "12",
-          "descripcion": "Las primeras 2 de aproximación , La 3ra peso máximo, La 4ta peso máximo con dos descensos al fallo",
+          "descripcion": "",
           "repeticiones": 4
         },
         {
@@ -67,7 +68,7 @@
         },
         {
           "orden": 3,
-          "ejercicio": "apertura inclinado y vuelo de pecho superior",
+          "ejercicio": "apertura inclinado",
           "repeticiones": 4,
           "cantidad": "12"
         },
@@ -76,7 +77,7 @@
           "ejercicio": "banco plano",
           "repeticiones": 4,
           "cantidad": "10 o 12",
-          "descripcion": "Las primeras 2 de aproximación , La 3ra peso máximo, La 4ta peso máximo con dos descensos al fallo"
+          "descripcion": ""
         },
         {
           "orden": 5,
@@ -86,15 +87,15 @@
         },
         {
           "orden": 6,
-          "ejercicio": "apertura banco plano mas disco al pecho al fallo",
+          "ejercicio": "apertura banco plano",
           "repeticiones": 4,
           "cantidad": "12"
         },
         {
           "orden": 7,
-          "ejercicio": "Polea enfrentadas de pecho o mariposa",
+          "ejercicio": "Flexiones al fallo.",
           "repeticiones": 4,
-          "cantidad": "12"
+          "cantidad": "fallo"
         }
       ],
       "triceps": [
