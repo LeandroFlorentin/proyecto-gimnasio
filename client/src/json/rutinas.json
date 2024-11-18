@@ -1,308 +1,391 @@
 [
-  {
-    "dia": "lunes",
-    "musculo": "piernas",
-    "ejercicios": {
-      "piernas": [
-        {
-          "orden": 1,
-          "ejercicio": "sentadilla libre",
-          "cantidad": "Manejalo vos, dependiendo del peso.",
-          "descripcion": "Todas al fallo.",
-          "repeticiones": 4
-        },
-        {
-          "orden": 2,
-          "ejercicio": "peso muerto",
-          "repeticiones": 4,
-          "cantidad": "10 o 12",
-          "descripcion": ""
-        },
-        {
-          "orden": 4,
-          "ejercicio": "sillon de cuadriceps",
-          "descripcion": "La ultima repetición con dos descensos y a una pierna el ultimo.",
-          "repeticiones": 4,
-          "cantidad": "12"
-        },
-        {
-          "orden": 3,
-          "ejercicio": "Estocada bulgada con la espalda recta.",
-          "repeticiones": 4,
-          "cantidad": "12"
-        },
-        {
-          "orden": 5,
-          "ejercicio": "sillón de femorales",
-          "repeticiones": 4,
-          "cantidad": "12",
-          "descripcion": "La última al fallo"
-        },
-        {
-          "orden": 6,
-          "ejercicio": "gemelos",
-          "repeticiones": 4,
-          "descripcion": "",
-          "cantidad": 30
-        }
-      ]
+  [
+    {
+      "dia": "lunes",
+      "musculo": "piernas",
+      "ejercicios": {
+        "piernas": [
+          {
+            "orden": 1,
+            "ejercicio": "sentadilla libre",
+            "cantidad": "10 o 12",
+            "descripcion": "",
+            "repeticiones": 4,
+            "musculo": "cuádripcep",
+            "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/como-hacer-una-sentadilla-perfecta/"
+          },
+          {
+            "orden": 2,
+            "ejercicio": "peso muerto",
+            "repeticiones": 4,
+            "cantidad": "10 o 12",
+            "descripcion": "",
+            "musculo": "femoral",
+            "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/peso-muerto-rumano/"
+          },
+          {
+            "orden": 3,
+            "ejercicio": "sillon de cuadriceps",
+            "descripcion": "",
+            "repeticiones": 4,
+            "cantidad": "12",
+            "musculo": "cuadricep",
+            "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/extension-de-cuadriceps/"
+          },
+          {
+            "orden": 4,
+            "ejercicio": "maquina de femorales parado.",
+            "repeticiones": 4,
+            "cantidad": "12",
+            "musculo": "femoral"
+          },
+          {
+            "orden": 5,
+            "ejercicio": "sentadilla vela",
+            "repeticiones": 4,
+            "cantidad": "12",
+            "musculo": "cuadricep"
+          },
+          {
+            "orden": 6,
+            "ejercicio": "maquina de femorales acostado",
+            "repeticiones": 4,
+            "descripcion": "",
+            "cantidad": "10 o 12",
+            "musculo": "femoral",
+            "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/curl-femoral-tumbado/"
+          },
+          {
+            "orden": 7,
+            "ejercicio": "elevación de talones",
+            "repeticiones": 4,
+            "descripcion": "",
+            "cantidad": "50",
+            "musculo": "gemelos"
+          }
+        ]
+      }
+    },
+    {
+      "dia": "martes",
+      "musculo": "pecho y triceps",
+      "ejercicios": {
+        "pecho": [
+          {
+            "orden": 1,
+            "ejercicio": "Banco inclinado barra",
+            "cantidad": "12",
+            "descripcion": "",
+            "repeticiones": 4,
+            "musculo": "Pectoral superior",
+            "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/press-de-banca-inclinado/"
+          },
+          {
+            "orden": 2,
+            "ejercicio": "Banco inclinado mancuernas",
+            "repeticiones": 4,
+            "cantidad": "12",
+            "musculo": "Pectoral superior",
+            "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/press-inclinado-con-mancuernas/"
+          },
+          {
+            "orden": 3,
+            "ejercicio": "Banco plano barra",
+            "repeticiones": 4,
+            "cantidad": "10 o 12",
+            "descripcion": "",
+            "musculo": "pectoral medio",
+            "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/como-utilizar-correctamente-el-press-de-banca/"
+          },
+          {
+            "orden": 4,
+            "ejercicio": "Banco plano mancuernas",
+            "repeticiones": 4,
+            "cantidad": "12",
+            "musculo": "pectoral medio",
+            "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/press-de-banca-con-mancuernas/"
+          },
+          {
+            "orden": 5,
+            "ejercicio": "Flexiones al fallo.",
+            "repeticiones": 4,
+            "cantidad": "12",
+            "musculo": "pectoral inferior"
+          }
+        ],
+        "triceps": [
+          {
+            "orden": 1,
+            "ejercicio": "Polea con Barra Recta (Agarre Normal e Inverso)",
+            "cantidad": "12",
+            "repeticiones": 4,
+            "musculo": "cabeza larga y lateral, agarre inverso cabeza media.",
+            "url_demostracion": "https://www.youtube.com/shorts/S1mPrwz8JWI"
+          },
+          {
+            "orden": 2,
+            "ejercicio": "Extensión de tríceps por encima de la cabeza con mancuerna",
+            "repeticiones": 4,
+            "cantidad": "12",
+            "musculo": "Cabeza larga del tríceps",
+            "url_demostracion": "https://www.youtube.com/watch?v=-paLAzl68WU&ab_channel=FitKamp"
+          },
+          {
+            "orden": 3,
+            "ejercicio": "Fondos",
+            "repeticiones": 4,
+            "cantidad": "12",
+            "musculo": "Cabeza larga, lateral y media.",
+            "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/fondos-de-triceps/"
+          }
+        ]
+      }
+    },
+    {
+      "dia": "miercoles",
+      "musculo": "espalda y biceps",
+      "ejercicios": {
+        "espalda": [
+          {
+            "orden": 1,
+            "ejercicio": "dominadas",
+            "cantidad": "12",
+            "repeticiones": 4,
+            "musculo": "dorsal y dorsal mayor, entre otros.",
+            "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/consejos-dominadas/"
+          },
+          {
+            "orden": 2,
+            "ejercicio": "remo con barra prono",
+            "repeticiones": 4,
+            "cantidad": "12",
+            "musculo": "dorsales, traprecios medios e inferiores, romboides",
+            "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/remo-inclinado-con-barra-beneficios-tecnica/"
+          },
+          {
+            "orden": 3,
+            "ejercicio": "remo bajo en polea",
+            "repeticiones": 4,
+            "cantidad": "12",
+            "musculo": "dorsales, trapecios medios y romboides",
+            "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/remo-en-polea-baja-sentado/"
+          },
+          {
+            "orden": 4,
+            "ejercicio": "pullover",
+            "repeticiones": 4,
+            "cantidad": "12",
+            "musculo": "dorsales",
+            "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/pullover-ejercicios-pecho-espalda/"
+          },
+          {
+            "orden": 5,
+            "ejercicio": "encogimientos",
+            "repeticiones": 4,
+            "cantidad": "12",
+            "musculo": "trapecios superiores",
+            "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/encogimiento-de-hombros/|"
+          }
+        ],
+        "biceps": [
+          {
+            "orden": 1,
+            "ejercicio": "curl con barra recta agarre abierto",
+            "repeticiones": 4,
+            "cantidad": "21",
+            "musculo": "cabeza corta del bicep",
+            "url_demostracion": "https://www.youtube.com/shorts/veOoIkW6Spw"
+          },
+          {
+            "orden": 2,
+            "ejercicio": "curl con mancuernas alterno en banco inclinado",
+            "repeticiones": 4,
+            "cantidad": "12",
+            "musculo": "cabeza larga del bicep",
+            "url_demostracion": "https://www.youtube.com/watch?v=0XVZInuV6mY&ab_channel=ToniLloret"
+          },
+          {
+            "orden": 3,
+            "ejercicio": "curl martillo con mancuernas",
+            "cantidad": "12",
+            "repeticiones": 4,
+            "musculo": "biceps braquial",
+            "url_demostracion": null
+          },
+          {
+            "orden": 5,
+            "ejercicio": "curl en polea baja",
+            "repeticiones": 4,
+            "cantidad": "10 o 12",
+            "musculo": "biceps cabeza corta y larga"
+          }
+        ]
+      }
+    },
+    {
+      "dia": "jueves",
+      "musculo": "gluteos",
+      "ejercicios": {
+        "gluteos_femorales": [
+          {
+            "orden": 1,
+            "ejercicio": "elevación de cadera",
+            "cantidad": "12",
+            "repeticiones": 4,
+            "musculo": "gluteo mayor, medio y menor",
+            "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/hip-thrust-gluteos-mas-grandes/"
+          },
+          {
+            "orden": 2,
+            "ejercicio": "patada de gluteos",
+            "repeticiones": 4,
+            "cantidad": "12",
+            "url_demostracion": "https://www.youtube.com/shorts/B9Fqo0KqeWc"
+          },
+          {
+            "orden": 3,
+            "ejercicio": "patada lateral de gluteos",
+            "repeticiones": 4,
+            "cantidad": "12",
+            "url_demostracion": "https://www.youtube.com/shorts/JbVhHdtqP5c"
+          },
+          {
+            "orden": 4,
+            "ejercicio": "sentadilla sumo",
+            "repeticiones": 4,
+            "cantidad": "12",
+            "url_demostracion": "https://www.youtube.com/shorts/6N38tqZ-6F4"
+          },
+          {
+            "orden": 6,
+            "ejercicio": "buen dia",
+            "repeticiones": 4,
+            "cantidad": "12"
+          }
+        ]
+      }
+    },
+    {
+      "dia": "viernes",
+      "musculo": "hombos",
+      "ejercicios": {
+        "hombros": [
+          {
+            "orden": 1,
+            "ejercicio": "press con mancuernas",
+            "cantidad": "12",
+            "repeticiones": 4
+          },
+          {
+            "orden": 2,
+            "ejercicio": "press posterior (agarre neutro)",
+            "repeticiones": 4,
+            "cantidad": "12"
+          },
+          {
+            "orden": 3,
+            "ejercicio": "press arnold",
+            "repeticiones": 4,
+            "cantidad": "12"
+          },
+          {
+            "orden": 4,
+            "ejercicio": "vuelos laterales, diagonales, frontales y neutro",
+            "descripcion": "40 en total, 10 de cada uno",
+            "repeticiones": 4,
+            "cantidad": "10"
+          },
+          {
+            "orden": 5,
+            "ejercicio": "vuelos completos",
+            "descripcion": "40 en total, 10 de cada uno",
+            "repeticiones": 4,
+            "cantidad": "10"
+          },
+          {
+            "orden": 6,
+            "ejercicio": "vuelo posterior combinado en biseries con posterior en polea alta con soga",
+            "repeticiones": 4,
+            "cantidad": "12"
+          }
+        ]
+      }
+    },
+    {
+      "dia": "martes y jueves",
+      "musculo": "abdominales",
+      "descripcion": "se realiza al finalizar las rutinas de martes y jueves, es todo de corrido siendo esto una rutina de 11 minutos",
+      "url_demostracion": "https://www.youtube.com/shorts/SnXqb26qpYM",
+      "ejercicios": {
+        "abdominales": [
+          {
+            "orden": 1,
+            "ejercicio": "Abdominales cortitos",
+            "tiempo": "1 minuto",
+            "musculo": "Parte superior del recto abdominal"
+          },
+          {
+            "orden": 2,
+            "ejercicio": "Plancha",
+            "tiempo": "1 minuto",
+            "musculo": "Recto abdominal, oblicuos, transverso del abdomen y zona lumbar"
+          },
+          {
+            "orden": 3,
+            "ejercicio": "Abdominales bicicleta",
+            "tiempo": "1 minuto",
+            "musculo": "Recto abdominal y oblicuos"
+          },
+          {
+            "orden": 4,
+            "ejercicio": "Descanso",
+            "tiempo": "1 minuto",
+            "musculo": "Recuperación muscular"
+          },
+          {
+            "orden": 5,
+            "ejercicio": "Elevación de pierna",
+            "tiempo": "1 minuto",
+            "musculo": "Parte inferior del recto abdominal y flexores de la cadera"
+          },
+          {
+            "orden": 6,
+            "ejercicio": "Toques de talón",
+            "tiempo": "1 minuto",
+            "musculo": "Oblicuos"
+          },
+          {
+            "orden": 7,
+            "ejercicio": "Espinales",
+            "tiempo": "1 minuto",
+            "musculo": "Zona lumbar y core posterior"
+          },
+          {
+            "orden": 8,
+            "ejercicio": "Descanso",
+            "tiempo": "1 minuto",
+            "musculo": "Recuperación muscular"
+          },
+          {
+            "orden": 9,
+            "ejercicio": "Plancha dinámica",
+            "tiempo": "1 minuto",
+            "musculo": "Transverso del abdomen, recto abdominal y estabilizadores de los hombros"
+          },
+          {
+            "orden": 10,
+            "ejercicio": "Abdominales cortitos",
+            "tiempo": "1 minuto",
+            "musculo": "Parte superior del recto abdominal"
+          },
+          {
+            "orden": 11,
+            "ejercicio": "Barquito",
+            "tiempo": "1 minuto",
+            "musculo": "Core completo: recto abdominal, oblicuos, transverso del abdomen y flexores de la cadera"
+          }
+        ]
+      }
     }
-  },
-  {
-    "dia": "martes",
-    "musculo": "pecho y triceps",
-    "ejercicios": {
-      "pecho": [
-        {
-          "orden": 1,
-          "ejercicio": "Banco inclinado barra",
-          "cantidad": "12",
-          "descripcion": "",
-          "repeticiones": 4,
-          "musculo": "Pectoral superior",
-          "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/press-de-banca-inclinado/"
-        },
-        {
-          "orden": 2,
-          "ejercicio": "Banco inclinado mancuernas",
-          "repeticiones": 4,
-          "cantidad": "12",
-          "musculo": "Pectoral superior",
-          "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/press-inclinado-con-mancuernas/"
-        },
-        {
-          "orden": 3,
-          "ejercicio": "Banco plano barra",
-          "repeticiones": 4,
-          "cantidad": "10 o 12",
-          "descripcion": "",
-          "musculo": "pectoral medio",
-          "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/como-utilizar-correctamente-el-press-de-banca/"
-        },
-        {
-          "orden": 4,
-          "ejercicio": "Banco plano mancuernas",
-          "repeticiones": 4,
-          "cantidad": "12",
-          "musculo": "pectoral medio",
-          "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/press-de-banca-con-mancuernas/"
-        },
-        {
-          "orden": 5,
-          "ejercicio": "Flexiones al fallo.",
-          "repeticiones": 4,
-          "cantidad": "12",
-          "musculo": "pectoral inferior"
-        }
-      ],
-      "triceps": [
-        {
-          "orden": 1,
-          "ejercicio": "Polea con Barra Recta (Agarre Normal e Inverso)",
-          "cantidad": "12",
-          "repeticiones": 4,
-          "musculo": "Agarre normal cabeza larga y lateral, agarre inverso cabeza media.",
-          "url_demostracion": "https://www.youtube.com/shorts/S1mPrwz8JWI"
-        },
-        {
-          "orden": 2,
-          "ejercicio": "Extensión de tríceps por encima de la cabeza con mancuerna",
-          "repeticiones": 4,
-          "cantidad": "12",
-          "musculo": "Cabeza larga del tríceps",
-          "url_demostracion": "https://www.youtube.com/watch?v=-paLAzl68WU&ab_channel=FitKamp"
-        },
-        {
-          "orden": 3,
-          "ejercicio": "Fondos",
-          "repeticiones": 4,
-          "cantidad": "12",
-          "musculo": "Cabeza larga, lateral y media.",
-          "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/fondos-de-triceps/"
-        }
-      ]
-    }
-  },
-  {
-    "dia": "miercoles",
-    "musculo": "espalda y biceps",
-    "ejercicios": {
-      "espalda": [
-        {
-          "orden": 1,
-          "ejercicio": "dorsalera al pecho",
-          "cantidad": "12",
-          "repeticiones": 4
-        },
-        {
-          "orden": 2,
-          "ejercicio": "dorsalera a la nuca",
-          "repeticiones": 4,
-          "cantidad": "12"
-        },
-        {
-          "orden": 3,
-          "ejercicio": "dorsalera con triangulo",
-          "repeticiones": 4,
-          "cantidad": "12"
-        },
-        {
-          "orden": 4,
-          "ejercicio": "dorsalera con agarre remo",
-          "repeticiones": 4,
-          "cantidad": "12"
-        },
-        {
-          "orden": 5,
-          "ejercicio": "remo polea baja con triangulo",
-          "repeticiones": 4,
-          "cantidad": "12"
-        },
-        {
-          "orden": 6,
-          "ejercicio": "remo con agarre abierto",
-          "repeticiones": 4,
-          "cantidad": "12"
-        }
-      ],
-      "biceps": [
-        {
-          "orden": 1,
-          "ejercicio": "curl 21",
-          "repeticiones": 4,
-          "cantidad": "21"
-        },
-        {
-          "orden": 2,
-          "ejercicio": "curl martillo",
-          "repeticiones": 4,
-          "cantidad": "12"
-        },
-        {
-          "orden": 3,
-          "ejercicio": "curl martillo neutro",
-          "cantidad": "12",
-          "repeticiones": 4
-        },
-        {
-          "orden": 4,
-          "ejercicio": "banco scor a una mano",
-          "repeticiones": 4,
-          "cantidad": "12"
-        },
-        {
-          "orden": 5,
-          "ejercicio": "curl en polea baja",
-          "repeticiones": 4,
-          "cantidad": "fallo"
-        }
-      ]
-    }
-  },
-  {
-    "dia": "jueves",
-    "musculo": "gluteos y femorales",
-    "ejercicios": {
-      "gluteos_femorales": [
-        {
-          "orden": 1,
-          "ejercicio": "elevación de cadera",
-          "descripcion": "1 segundo de retención, la ultima al fallo",
-          "cantidad": "12",
-          "repeticiones": 4
-        },
-        {
-          "orden": 2,
-          "ejercicio": "peso muerto",
-          "descripcion": "La ultima al fallo",
-          "repeticiones": 4,
-          "cantidad": "12"
-        },
-        {
-          "orden": 3,
-          "ejercicio": "patada de burro mas parada lateral en biseries",
-          "repeticiones": 4,
-          "cantidad": "12"
-        },
-        {
-          "orden": 4,
-          "ejercicio": "femoral en maquina parado",
-          "descripcion": "dos descensos al fallo en la ultima",
-          "repeticiones": 4,
-          "cantidad": "12"
-        },
-        {
-          "orden": 5,
-          "ejercicio": "estocadas bulgaras",
-          "repeticiones": 4,
-          "cantidad": "12"
-        },
-        {
-          "orden": 6,
-          "ejercicio": "buen dia",
-          "repeticiones": 4,
-          "cantidad": "12"
-        },
-        {
-          "orden": 7,
-          "ejercicio": "sillon de femorales",
-          "repeticiones": 4,
-          "cantidad": "12",
-          "descripcion": "dos descensos al fallo en la ultima"
-        }
-      ]
-    }
-  },
-  {
-    "dia": "viernes",
-    "musculo": "hombos",
-    "ejercicios": {
-      "hombros": [
-        {
-          "orden": 1,
-          "ejercicio": "press con mancuernas",
-          "cantidad": "12",
-          "repeticiones": 4
-        },
-        {
-          "orden": 2,
-          "ejercicio": "press posterior (agarre neutro)",
-          "repeticiones": 4,
-          "cantidad": "12"
-        },
-        {
-          "orden": 3,
-          "ejercicio": "press arnold",
-          "repeticiones": 4,
-          "cantidad": "12"
-        },
-        {
-          "orden": 4,
-          "ejercicio": "vuelos laterales, diagonales, frontales y neutro",
-          "descripcion": "40 en total, 10 de cada uno",
-          "repeticiones": 4,
-          "cantidad": "10"
-        },
-        {
-          "orden": 5,
-          "ejercicio": "vuelos completos",
-          "descripcion": "40 en total, 10 de cada uno",
-          "repeticiones": 4,
-          "cantidad": "10"
-        },
-        {
-          "orden": 6,
-          "ejercicio": "vuelo posterior combinado en biseries con posterior en polea alta con soga",
-          "repeticiones": 4,
-          "cantidad": "12"
-        },
-        {
-          "orden": 7,
-          "ejercicio": "press militar",
-          "repeticiones": 4,
-          "cantidad": "fallo"
-        }
-      ]
-    }
-  }
+  ]
 ]
