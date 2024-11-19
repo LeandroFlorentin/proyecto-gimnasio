@@ -2,17 +2,16 @@
   [
     {
       "dia": "lunes",
-      "musculo": "piernas",
+      "musculo": "gluteos y femorales",
       "ejercicios": {
-        "piernas": [
+        "gluteos y femorales": [
           {
             "orden": 1,
-            "ejercicio": "sentadilla libre",
-            "cantidad": "10 o 12",
-            "descripcion": "",
+            "ejercicio": "elevación de cadera",
+            "cantidad": "12",
             "repeticiones": 4,
-            "musculo": "cuádripcep",
-            "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/como-hacer-una-sentadilla-perfecta/"
+            "musculo": "gluteo mayor, medio y menor",
+            "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/hip-thrust-gluteos-mas-grandes/"
           },
           {
             "orden": 2,
@@ -20,34 +19,18 @@
             "repeticiones": 4,
             "cantidad": "10 o 12",
             "descripcion": "",
-            "musculo": "femoral",
+            "musculo": "femoral y gluteo",
             "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/peso-muerto-rumano/"
           },
           {
             "orden": 3,
-            "ejercicio": "sillon de cuadriceps",
-            "descripcion": "",
+            "ejercicio": "patada de gluteos",
             "repeticiones": 4,
             "cantidad": "12",
-            "musculo": "cuadricep",
-            "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/extension-de-cuadriceps/"
+            "url_demostracion": "https://www.youtube.com/shorts/B9Fqo0KqeWc"
           },
           {
             "orden": 4,
-            "ejercicio": "maquina de femorales parado.",
-            "repeticiones": 4,
-            "cantidad": "12",
-            "musculo": "femoral"
-          },
-          {
-            "orden": 5,
-            "ejercicio": "sentadilla vela",
-            "repeticiones": 4,
-            "cantidad": "12",
-            "musculo": "cuadricep"
-          },
-          {
-            "orden": 6,
             "ejercicio": "maquina de femorales acostado",
             "repeticiones": 4,
             "descripcion": "",
@@ -56,11 +39,11 @@
             "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/curl-femoral-tumbado/"
           },
           {
-            "orden": 7,
-            "ejercicio": "elevación de talones",
-            "repeticiones": 4,
-            "descripcion": "",
+            "orden": 4,
+            "ejercicio": "Alguno de gemelos",
+            "descripcion": "40 en total, 10 de cada uno",
             "cantidad": "50",
+            "repeticiones": 4,
             "musculo": "gemelos"
           }
         ]
@@ -82,14 +65,6 @@
           },
           {
             "orden": 2,
-            "ejercicio": "Banco inclinado mancuernas",
-            "repeticiones": 4,
-            "cantidad": "12",
-            "musculo": "Pectoral superior",
-            "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/press-inclinado-con-mancuernas/"
-          },
-          {
-            "orden": 3,
             "ejercicio": "Banco plano barra",
             "repeticiones": 4,
             "cantidad": "10 o 12",
@@ -98,16 +73,8 @@
             "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/como-utilizar-correctamente-el-press-de-banca/"
           },
           {
-            "orden": 4,
-            "ejercicio": "Banco plano mancuernas",
-            "repeticiones": 4,
-            "cantidad": "12",
-            "musculo": "pectoral medio",
-            "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/press-de-banca-con-mancuernas/"
-          },
-          {
-            "orden": 5,
-            "ejercicio": "Flexiones al fallo.",
+            "orden": 3,
+            "ejercicio": "Maquina mariposa o apertura",
             "repeticiones": 4,
             "cantidad": "12",
             "musculo": "pectoral inferior"
@@ -116,6 +83,14 @@
         "triceps": [
           {
             "orden": 1,
+            "ejercicio": "Fondos o soga en polea de frente.",
+            "repeticiones": 4,
+            "cantidad": "12",
+            "musculo": "Cabeza larga, lateral y media.",
+            "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/fondos-de-triceps/"
+          },
+          {
+            "orden": 2,
             "ejercicio": "Polea con Barra Recta (Agarre Normal e Inverso)",
             "cantidad": "12",
             "repeticiones": 4,
@@ -123,32 +98,66 @@
             "url_demostracion": "https://www.youtube.com/shorts/S1mPrwz8JWI"
           },
           {
-            "orden": 2,
-            "ejercicio": "Extensión de tríceps por encima de la cabeza con mancuerna",
+            "orden": 3,
+            "ejercicio": "Extensión de tríceps por encima de la cabeza con mancuerna o soga",
             "repeticiones": 4,
             "cantidad": "12",
             "musculo": "Cabeza larga del tríceps",
             "url_demostracion": "https://www.youtube.com/watch?v=-paLAzl68WU&ab_channel=FitKamp"
-          },
-          {
-            "orden": 3,
-            "ejercicio": "Fondos",
-            "repeticiones": 4,
-            "cantidad": "12",
-            "musculo": "Cabeza larga, lateral y media.",
-            "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/fondos-de-triceps/"
           }
         ]
       }
     },
     {
       "dia": "miercoles",
+      "musculo": "cuadriceps",
+      "ejercicios": {
+        "piernas": [
+          {
+            "orden": 1,
+            "ejercicio": "sentadilla libre",
+            "cantidad": "10 o 12",
+            "descripcion": "",
+            "repeticiones": 4,
+            "musculo": "cuádripcep",
+            "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/como-hacer-una-sentadilla-perfecta/"
+          },
+          {
+            "orden": 2,
+            "ejercicio": "estocada bulgara espalda recta",
+            "repeticiones": 4,
+            "descripcion": "",
+            "cantidad": "50",
+            "musculo": "cuadriceps"
+          },
+          {
+            "orden": 3,
+            "ejercicio": "sillon de cuadriceps",
+            "descripcion": "",
+            "repeticiones": 4,
+            "cantidad": "12",
+            "musculo": "cuadricep",
+            "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/extension-de-cuadriceps/"
+          },
+          {
+            "orden": 4,
+            "ejercicio": "Alguno de gemelos",
+            "descripcion": "40 en total, 10 de cada uno",
+            "cantidad": "50",
+            "repeticiones": 4,
+            "musculo": "gemelos"
+          }
+        ]
+      }
+    },
+    {
+      "dia": "jueves",
       "musculo": "espalda y biceps",
       "ejercicios": {
         "espalda": [
           {
             "orden": 1,
-            "ejercicio": "dominadas",
+            "ejercicio": "dominadas o barra al pecho",
             "cantidad": "12",
             "repeticiones": 4,
             "musculo": "dorsal y dorsal mayor, entre otros.",
@@ -190,7 +199,7 @@
         "biceps": [
           {
             "orden": 1,
-            "ejercicio": "curl con barra recta agarre abierto",
+            "ejercicio": "curl con barra recta agarre neutro",
             "repeticiones": 4,
             "cantidad": "21",
             "musculo": "cabeza corta del bicep",
@@ -211,56 +220,6 @@
             "repeticiones": 4,
             "musculo": "biceps braquial",
             "url_demostracion": null
-          },
-          {
-            "orden": 5,
-            "ejercicio": "curl en polea baja",
-            "repeticiones": 4,
-            "cantidad": "10 o 12",
-            "musculo": "biceps cabeza corta y larga"
-          }
-        ]
-      }
-    },
-    {
-      "dia": "jueves",
-      "musculo": "gluteos",
-      "ejercicios": {
-        "gluteos_femorales": [
-          {
-            "orden": 1,
-            "ejercicio": "elevación de cadera",
-            "cantidad": "12",
-            "repeticiones": 4,
-            "musculo": "gluteo mayor, medio y menor",
-            "url_demostracion": "https://www.myprotein.es/thezone/entrenamiento/hip-thrust-gluteos-mas-grandes/"
-          },
-          {
-            "orden": 2,
-            "ejercicio": "patada de gluteos",
-            "repeticiones": 4,
-            "cantidad": "12",
-            "url_demostracion": "https://www.youtube.com/shorts/B9Fqo0KqeWc"
-          },
-          {
-            "orden": 3,
-            "ejercicio": "patada lateral de gluteos",
-            "repeticiones": 4,
-            "cantidad": "12",
-            "url_demostracion": "https://www.youtube.com/shorts/JbVhHdtqP5c"
-          },
-          {
-            "orden": 4,
-            "ejercicio": "sentadilla sumo",
-            "repeticiones": 4,
-            "cantidad": "12",
-            "url_demostracion": "https://www.youtube.com/shorts/6N38tqZ-6F4"
-          },
-          {
-            "orden": 6,
-            "ejercicio": "buen dia",
-            "repeticiones": 4,
-            "cantidad": "12"
           }
         ]
       }
@@ -272,39 +231,20 @@
         "hombros": [
           {
             "orden": 1,
-            "ejercicio": "press con mancuernas",
+            "ejercicio": "press con barra parado",
             "cantidad": "12",
             "repeticiones": 4
           },
           {
             "orden": 2,
-            "ejercicio": "press posterior (agarre neutro)",
+            "ejercicio": "vuelos laterales",
+            "descripcion": "",
             "repeticiones": 4,
-            "cantidad": "12"
+            "cantidad": "10 o 12"
           },
           {
             "orden": 3,
-            "ejercicio": "press arnold",
-            "repeticiones": 4,
-            "cantidad": "12"
-          },
-          {
-            "orden": 4,
-            "ejercicio": "vuelos laterales, diagonales, frontales y neutro",
-            "descripcion": "40 en total, 10 de cada uno",
-            "repeticiones": 4,
-            "cantidad": "10"
-          },
-          {
-            "orden": 5,
-            "ejercicio": "vuelos completos",
-            "descripcion": "40 en total, 10 de cada uno",
-            "repeticiones": 4,
-            "cantidad": "10"
-          },
-          {
-            "orden": 6,
-            "ejercicio": "vuelo posterior combinado en biseries con posterior en polea alta con soga",
+            "ejercicio": "posterior con polea alta",
             "repeticiones": 4,
             "cantidad": "12"
           }
@@ -312,9 +252,9 @@
       }
     },
     {
-      "dia": "martes y jueves",
+      "dia": "Lunes, miercoles y viernes",
       "musculo": "abdominales",
-      "descripcion": "se realiza al finalizar las rutinas de martes y jueves, es todo de corrido siendo esto una rutina de 11 minutos",
+      "descripcion": "se realiza al finalizar las rutinas de los lunes, miercoles y viernes, es todo de corrido siendo esto una rutina de 11 minutos",
       "url_demostracion": "https://www.youtube.com/shorts/SnXqb26qpYM",
       "ejercicios": {
         "abdominales": [
